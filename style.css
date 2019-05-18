@@ -1,0 +1,45 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:  #050631; 
+    color: #FFFFFF;
+    margin:0px auto;
+    text-align: center;
+
+}
+
+
+
+.content{
+    width: 100%;
+    margin:0px auto;
+    text-align: center;
+}
+.now{
+    height: 200px;
+    background-color:  #050631; 
+}
+
+.now_weather_icon{
+    float: left;
+}
+.now_desc{
+    float: left;
+}
+
+
+.location{
+    height: 150px;
+    background-color: #393B78;
+    padding-top: 40px;
+}
+
+.future{
+    height: 35%;
+    background-color:  #050631; 
+}
+
+.day6{
+    float: left;
+    margin:0px auto;
+    text-align: center;
+}
