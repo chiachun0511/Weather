@@ -17,13 +17,15 @@ body{
 .now{
     height: 200px;
     background-color:  #050631; 
+    margin-top: 30px;
+    font-size: 20px;
 }
 
 .now_weather_icon{
-    float: left;
+    display: inline-block 
 }
 .now_desc{
-    float: left;
+    display: inline-block 
 }
 
 
@@ -39,7 +41,22 @@ body{
 }
 
 .day6{
-    float: left;
+    display: inline-block;
     margin:0px auto;
     text-align: center;
+    margin-top: 40px;
+    margin-right: 25px;
+}
+
+.day{
+    font-size: 20px;
+}
+
+.icon{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.degree{
+    font-size: 20px;
 }
